@@ -1,4 +1,4 @@
-| S.NO | VM-ID           | Assigned User                         |
+| S.NO | Cloud VM-ID           | Assigned User                         |
 |------|-----------------|---------------------------------------|
 | 1    | 24SUN5411_U01   | Shubhank Dwivedi                      |
 | 2    | 24SUN5411_U02   | Swaroop Vemula                        |
